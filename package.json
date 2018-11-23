@@ -1,0 +1,25 @@
+{
+  "name": "uci-parser",
+  "version": "1.0.0",
+  "description": "Parser for UCI protocol written in node.js, to help to easily create UCI modules. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loicmarie/node-uci-parser.git"
+  },
+  "keywords": [
+    "uci",
+    "chess",
+    "module",
+    "parser"
+  ],
+  "author": "Loïc Marie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loicmarie/node-uci-parser/issues"
+  },
+  "homepage": "https://github.com/loicmarie/node-uci-parser#readme"
+}
